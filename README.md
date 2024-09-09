@@ -1,6 +1,9 @@
 # _**Assignment 2: Vecta Corp Website**_
+
 ![Logo](https://github.com/hareesh-cs/CS-648-Assignment-2/blob/main/images/header.gif?raw=true)
+
 ## Overview
+
 This [project](https://github.com/hareesh-cs/CS-648-Assignment-2) is a four-page website created for **Vecta Corp** as part of CS648 Assignment 2. The website includes the following pages:
 
 1. **[Home](https://github.com/hareesh-cs/CS-648-Assignment-2/blob/main/index.html)**
